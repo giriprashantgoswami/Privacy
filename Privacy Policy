@@ -1,0 +1,38 @@
+Privacy Policy
+1. Information Collection and Use
+Our app collects and uses various types of information to provide its services. The information we collect can be categorized into the following:
+
+User-provided information: When you create an account, we collect your email address, password, and other profile information you choose to provide.
+Usage data: We collect information about how you use our app, including your interactions with our content generation and scheduling features.
+Social media data: When you connect your social media accounts, we collect information about your social media profiles and activity.
+Analytics data: We use Firebase Analytics to collect data about your app usage, including metrics such as screen views, button clicks, and other interactions.
+We use this information to:
+
+Provide and improve our app's features and services
+Personalize your experience across the app
+Analyze usage patterns to enhance our app's functionality and user experience
+2. Data Storage and Security
+We store user data using Firebase Firestore, a secure and reliable NoSQL database. We implement industry-standard security measures to protect your data, including:
+
+Encryption in transit using HTTPS
+Authentication and authorization mechanisms to control access to user data
+Regular security audits and monitoring
+We retain user data for as long as your account is active or as needed to provide our services. When you delete your account, we will delete your personal data within a reasonable timeframe.
+
+3. User Rights and Choices
+You have the right to:
+
+Access your personal information by logging into your account
+Update your personal information through your account settings
+Request deletion of your account and associated data by contacting us at support@socialmedia-manager.app
+Opt-out of certain data collection practices, such as analytics, through your device settings
+To exercise these rights, please contact us at support@socialmedia-manager.app. We will respond to your request within 30 days.
+
+4. Third-Party Services
+Our app uses the following third-party services:
+
+OpenRouter API: We use OpenRouter to provide AI-powered content generation and analysis. When you use these features, your input data is sent to OpenRouter's servers for processing. Please review OpenRouter's privacy policy for more information.
+Firebase Services: We use Firebase for authentication, data storage, and analytics. Firebase collects certain data as described in their privacy policy.
+Social Media APIs: When you connect your social media accounts, we collect information from these platforms through their APIs. Please review the privacy policies of the respective social media platforms for more information.
+5. Contact Information
+For any privacy-related inquiries or requests, please contact us at support@socialmedia-manager.app.
