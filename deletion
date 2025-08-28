@@ -1,0 +1,22 @@
+Data Deletion Instructions
+==========================
+
+### User Steps to Request Data Deletion
+
+1. Navigate to the app's settings screen and select "Delete Account" or "Request Data Deletion".
+2. Confirm your request by re-authenticating if prompted.
+3. The app will initiate the data deletion process.
+
+### App Handling of Data Deletion Requests
+
+1. The app receives the deletion request and triggers the `deleteUserData` method.
+2. This method performs a batch deletion of user data across multiple Firestore collections.
+3. The affected collections include `users`, `schedules`, and `social_accounts`.
+
+### Technical Details
+
+* The app uses Firebase Firestore for data storage.
+* Data deletion is handled through the `deleteUserData` method in `FirebaseService`.
+* This method ensures atomic deletion across affected collections using Firestore's batch operations.
+
+By following these steps and understanding the technical implementation, users can effectively request and manage their data deletion within the app.
